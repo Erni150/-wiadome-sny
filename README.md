@@ -1,1 +1,1 @@
-# -wiadome-sny
+# -swiadome-sny
